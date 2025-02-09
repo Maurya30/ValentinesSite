@@ -1,0 +1,36 @@
+body {
+    background-color: #ffccd5;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #d63384;
+}
+.container {
+    margin-top: 50px;
+}
+.button-container {
+    margin-top: 20px;
+}
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+}
+#yesButton {
+    background-color: #28a745;
+    color: white;
+}
+#noButton {
+    background-color: #dc3545;
+    color: white;
+}
+.hidden {
+    display: none;
+}
+.cute-things img {
+    width: 150px;
+    margin: 10px;
+}
